@@ -9,5 +9,10 @@ Compilation is the process of turning C language source code into machine code. 
 # Q1) Write a program to print sizes of different data types
 # Theory 
 The size of a data type is the size it takes in memory. Their sizes vary. This size is represented in bytes. We can use the sizeof() method to get their sizes.
+# Output
+![Screenshot 2023-09-17 at 8 21 38 PM](https://github.com/shrutitalyan/c-programs2/assets/143024392/a1a67545-f2ce-44ae-951e-72f62f9cb263)
+# Q2) Write a C program to read a number from the user and print a table of multiplication for that number.
+# Theory
+
 
 
