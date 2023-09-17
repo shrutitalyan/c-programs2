@@ -1,0 +1,6 @@
+int* ptr, i;
+i = 5;
+ptr = &i;
+printf("%d", *ptr);
+printf("%d", i);
+printf("Value of i: %d\n\n", i);
