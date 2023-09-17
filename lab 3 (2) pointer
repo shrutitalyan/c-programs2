@@ -1,11 +1,17 @@
+#include <stdio.h>
+#include <stdlib.h>
 int main()
 {
-int 1 = 10;
-int *ptr;
-ptr = 8i;
-print"Value of i; %din", i);
-printf("Value of 8i: %p\n", 81);
-printf("Value of ptr: Sp\n", ptr);
-printf("Value of "ptr: %d\n", "ptr);
+int i = 9;
+int *ptr=&i;
+
+printf("value of i is %d\n", i);
+printf("address of i is %p\n", i);
+printf("address of ptr is %p\n", ptr);
+printf("value of ptr is %d\n", ptr);
 return 0;
 }
+
+
+
+
