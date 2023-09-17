@@ -35,6 +35,13 @@ A pointer is defined as a derived data type that can store the address of other 
 
 datatype * ptr;
 # Output 
+![Screenshot 2023-09-17 at 8 42 33 PM](https://github.com/shrutitalyan/c-programs2/assets/143024392/489835ec-c063-43ab-b39e-0515b3f6615b)
+# Q2) Write a program in C to demonstrate function call by value and call by reference by writing a swap function to swap two integers.
+# Theory
+The methods of passing arguments to a function in C can be divided into two categories: "call by value" and "call by reference." These methods ascertain the impact of changing function parameter values on the initial values outside the function.
+![Screenshot 2023-09-17 at 9 06 53 PM](https://github.com/shrutitalyan/c-programs2/assets/143024392/8109aa44-e2ae-408f-915a-6dc1c3e7ba7a)
+
+
 
 
 
