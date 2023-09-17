@@ -22,6 +22,24 @@ The program below takes an integer input from the user and generates the multipl
 # Theory 
 We must use two or three loops to create a star pattern in the C language. The number of loops depends on the pattern that we need to create. For pattern, a minimum of two is used i.e. one for a row and one for a column. The First loop is called an outer loop that shows the rows, and the second loop is called an inner loop that shows columns.
 # Output 1
+![Screenshot 2023-09-17 at 8 31 46 PM](https://github.com/shrutitalyan/c-programs2/assets/143024392/09645a23-c365-46bf-8e13-517cb655cc26)
+# Output 2
+![Screenshot 2023-09-17 at 8 32 24 PM](https://github.com/shrutitalyan/c-programs2/assets/143024392/115bfda9-2851-429c-9c4d-b26e907081fe)
+# Output 3
+![Screenshot 2023-09-17 at 8 32 59 PM](https://github.com/shrutitalyan/c-programs2/assets/143024392/e31f88d0-d7ff-4f1c-afb7-7d756dca8cd4)
+# C-Programming Basics - Lab 3 (29/08/2023)
+# Q1) Write a program to demonstrate pointers. Declare a pointer ptr to integer and equate it to the address of integer i. Print value of i, value of &i, value of ptr and value of *ptr.
+# Theory
+The use of pointers allows low-level memory access, dynamic memory allocation, and many other functionality in C.
+A pointer is defined as a derived data type that can store the address of other C variables or a memory location. We can access and manipulate the data stored in that memory location using pointers.T he syntax of pointers is similar to the variable declaration in C, but we use the ( * ) dereferencing operator in the pointer declaration.
+
+datatype * ptr;
+# Output 
+
+
+
+
+
 
 
 
