@@ -45,10 +45,11 @@ The methods of passing arguments to a function in C can be divided into two cate
 # Q1) Write a program to demonstrate Recursion
 # Theory 
 Recursion in C is a programming technique that allows a function to call itself. This can be useful for solving problems that can be broken down into smaller, self-similar subproblems.
-(1) Addition of first n integers
+
+# (1) Addition of first n integers
 ![Screenshot 2023-11-23 at 11 26 12 PM](https://github.com/shrutitalyan/c-programs2/assets/143024392/9ec3bdea-82b1-44c3-b337-b6385a8411f3)
 
-(2) Factorial of n
+# (2) Factorial of n
 ![Screenshot 2023-11-23 at 11 28 24 PM](https://github.com/shrutitalyan/c-programs2/assets/143024392/965b4c88-7ca3-4209-ae35-0c946d6c181f)
 
 
