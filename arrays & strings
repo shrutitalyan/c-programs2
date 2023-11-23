@@ -1,0 +1,26 @@
+#include <stdio.h>
+const char* digitNames[] = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
+/
+char* convertDigitToWords(int digit) {
+  return digitNames[digit];
+}
+void printNumberInWords(int number) {
+  int digits[5]; 
+for (int i = 0; i < 5; i++) {
+    digits[i] = number % 10;
+    number /= 10;
+  }
+ for (int i = 4; i >= 0; i--) {
+    printf("%s ", convertDigitToWords(digits[i]));
+    if (i > 0) {
+      printf(",");
+    }
+  }
+}
+int main() {
+  int number;
+  printf("Enter a five-digit number: ");
+  scanf("%d", &number);
+printNumberInWords(number);
+return 0;
+}
