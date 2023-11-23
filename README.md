@@ -51,6 +51,62 @@ Recursion in C is a programming technique that allows a function to call itself.
 
 # (2) Factorial of n
 ![Screenshot 2023-11-23 at 11 28 24 PM](https://github.com/shrutitalyan/c-programs2/assets/143024392/965b4c88-7ca3-4209-ae35-0c946d6c181f)
+# C- Programming Basics - Lab 6 (14/09/23) - (18/09/23)
+# Q1) Write a program to demonstrate arrays and strings.
+# Theory 
+Arrays and strings are fundamental data structures in C programming. They are used to store collections of data of the same type.
+An array is a collection of elements of the same data type stored in contiguous memory locations. Each element in an array is identified by an index, which is an integer value starting from 0.
+A string is a sequence of characters terminated by a null character (\0). Strings are commonly used to represent text data. In C, strings are essentially one-dimensional character arrays.
+# Q1) Aim : Print five digit number in words.
+![Screenshot 2023-11-23 at 11 42 15 PM](https://github.com/shrutitalyan/c-programs2/assets/143024392/be1a87fd-5f1a-4aab-bfd8-be88106c6f25)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
