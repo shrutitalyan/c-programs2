@@ -60,6 +60,12 @@ A string is a sequence of characters terminated by a null character (\0). String
 # Q1) Aim : Print five digit number in words.
 ![Screenshot 2023-11-23 at 11 42 15 PM](https://github.com/shrutitalyan/c-programs2/assets/143024392/be1a87fd-5f1a-4aab-bfd8-be88106c6f25)
 
+# C- Programming Basics - Lab 8 , 9 (5/10/23) - (9/10/23)
+# Q1) Write a class (date), access its functions using class object (today)
+# Theory 
+Create a class named date, Initialize int arr month_days, initialize ptr to strings months and weekdays, Take day, month, year from user, Display the date in slashed form with the help of disp_date() function, Check whether the year entered by user is leap or not leap by using is_leap(), Calculate the total days from Jan 1 to current date day_of_year(), Display the date without slashed form using disp_date1(), Display the weekday for the current date using disp_weekday()
+
+
 
 
 
