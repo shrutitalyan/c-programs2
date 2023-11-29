@@ -65,6 +65,7 @@ A string is a sequence of characters terminated by a null character (\0). String
 # Theory 
 Create a class named date, Initialize int arr month_days, initialize ptr to strings months and weekdays, Take day, month, year from user, Display the date in slashed form with the help of disp_date() function, Check whether the year entered by user is leap or not leap by using is_leap(), Calculate the total days from Jan 1 to current date day_of_year(), Display the date without slashed form using disp_date1(), Display the weekday for the current date using disp_weekday()
 
+![Screenshot 2023-11-29 at 9 19 36 PM](https://github.com/shrutitalyan/c-programs2/assets/143024392/0665738b-bcc5-4f44-a10b-7e9e69908a08)
 
 
 
